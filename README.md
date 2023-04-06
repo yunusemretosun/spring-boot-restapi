@@ -2,5 +2,4 @@
 
 This project contains a very basic REST API for managing books.
 
-image 
-yunusemretosun/restapi
+image: yunusemretosun/restapi
